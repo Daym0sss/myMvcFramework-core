@@ -1,0 +1,15 @@
+{
+    "name": "daymos/php-mvc-framework-core",
+    "autoload": {
+        "psr-4": {
+            "Daymos\\PhpMvcFrameworkCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daym0sss",
+            "email": "lavandos322@gmail.com"
+        }
+    ],
+    "require": {}
+}
