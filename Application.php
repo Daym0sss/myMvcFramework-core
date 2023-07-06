@@ -1,10 +1,8 @@
 <?php
 
-namespace app\core;
+namespace daymos\mvcFramework;
 
-use app\core\db\Database;
-use app\core\db\DbModel;
-use app\models\User;
+use daymos\mvcFramework\db\Database;
 
 class Application
 {

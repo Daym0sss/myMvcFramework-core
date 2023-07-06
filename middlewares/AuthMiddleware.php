@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace daymos\mvcFramework\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use daymos\mvcFramework\Application;
+use daymos\mvcFramework\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

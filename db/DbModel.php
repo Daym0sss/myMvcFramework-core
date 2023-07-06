@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace daymos\mvcFramework\db;
 
-use app\core\Application;
-use app\core\Model;
+use daymos\mvcFramework\Application;
+use daymos\mvcFramework\Model;
 
 abstract class DbModel extends Model
 {

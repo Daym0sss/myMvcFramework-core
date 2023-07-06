@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
+namespace daymos\mvcFramework\db;
 
-use app\core\Application;
+use daymos\mvcFramework\Application;
 
 class Database
 {

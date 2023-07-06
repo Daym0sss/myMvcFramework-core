@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\exception;
+namespace daymos\mvcFramework\exception;
 
 class ForbiddenException extends \Exception
 {

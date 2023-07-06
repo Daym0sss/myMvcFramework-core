@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\form;
+namespace daymos\mvcFramework\form;
 
 class TextareaField extends BaseField
 {

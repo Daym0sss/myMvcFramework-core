@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace daymos\mvcFramework;
 
-use app\core\middlewares\BaseMiddleware;
+use daymos\mvcFramework\middlewares\BaseMiddleware;
 
 class Controller
 {

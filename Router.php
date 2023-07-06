@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace daymos\mvcFramework;
 
-use app\core\exception\NotFoundException;
+use daymos\mvcFramework\exception\NotFoundException;
 
 class Router
 {

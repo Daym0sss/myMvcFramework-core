@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace daymos\mvcFramework\form;
 
-use app\core\Model;
+use daymos\mvcFramework\Model;
 
 class InputField extends BaseField
 {

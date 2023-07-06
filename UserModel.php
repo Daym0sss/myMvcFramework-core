@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace daymos\mvcFramework;
 
-use app\core\db\DbModel;
+use daymos\mvcFramework\db\DbModel;
 
 abstract class UserModel extends DbModel
 {
